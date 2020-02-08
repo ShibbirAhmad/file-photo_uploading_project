@@ -1,0 +1,12 @@
+
+
+
+.header , .footer {min-height:80px;width:100%; background:green;padding:20px;}
+.header h2 , .footer h2{margin-left:100px; margin-top:0px;text-align:center;}
+
+.mainsection {min-height:420px;background:#f6eead;}
+.myform{margin-left:100px;background:#fc721e;height: auto;}
+
+input[type="submit"], input[type="file"] {cursor:pointer; margin:50px 0px 0px 100px;}
+
+input[type="submit"] { margin-top:10px;}
